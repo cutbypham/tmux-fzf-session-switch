@@ -126,8 +126,8 @@ set -g @fzf-goto-preview-enabled 'true'
 
 **Custom**
 ```bash
-set-g @fzf-goto-preview-width-preview WIDTH
-set-g @fzf-goto-preview-height-preview HEIGH
+set -g @fzf-goto-win-width-preview WIDTH
+set -g @fzf-goto-win-height-preview HEIGH
 ```
 
 ## Tips
