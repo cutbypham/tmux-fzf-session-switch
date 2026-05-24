@@ -42,7 +42,7 @@ Having multiple features like [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
 
 ## Requirements
 
-- [Tmux >= 3.3a](https://github.com/vndmp4/tmux-fzf-session-switch/pull/5/files) (for the `pop-up menu` feature)
+- [Tmux >= 3.3a](https://github.com/cutbypham/tmux-fzf-session-switch/pull/5/files) (for the `pop-up menu` feature)
 - [fzf](https://github.com/junegunn/fzf)
 
 ## Getting Started
@@ -56,7 +56,7 @@ Having multiple features like [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
    Add the following line to your `~/.tmux.conf` file:
 
    ```
-   set -g @plugin 'vndmp4/tmux-fzf-session-switch'
+   set -g @plugin 'cutbypham/tmux-fzf-session-switch'
    ```
 
 3. **Install the Plugin:**
