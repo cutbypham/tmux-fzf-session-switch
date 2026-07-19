@@ -5,11 +5,6 @@
 
 <img width="700" alt="380459035-512b0025-9d98-4895-978a-05bc44d6342a" src="https://github.com/user-attachments/assets/f2f654ba-22c9-45ca-87a2-07eafd793b51">
 
-
-## Video demo
-
-[![](/img/video-demo-thumbnail.jpg)](https://www.youtube.com/watch?v=70jzB1SU5as)
-
 ## QnA
 
 ### Features:
